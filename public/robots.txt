@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://jinicode.github.io/sitemap/sitemap-index.xml
+Host: https://jinicode.github.io
